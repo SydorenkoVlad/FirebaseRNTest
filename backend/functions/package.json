@@ -14,8 +14,8 @@
   },
   "dependencies": {
     "email-templates": "^7.0.4",
-    "firebase-admin": "^8.6.0",
-    "firebase-functions": "^3.3.0",
+    "firebase-admin": "^11.4.1",
+    "firebase-functions": "^3.24.1",
     "nodemailer": "^6.4.5",
     "pug": "^2.0.4"
   },
